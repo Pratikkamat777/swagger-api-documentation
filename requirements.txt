@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+google-genai
+
+#Explanation:
+
+#fastapi creates the API.
+
+#uvicorn[standard] runs the FastAPI application.
+
+#google-genai communicates with Gemini.
